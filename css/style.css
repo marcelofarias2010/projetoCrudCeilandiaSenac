@@ -1,0 +1,11 @@
+.Resultado{
+    display: none;
+    float: left;
+    border: 2px solid #00ff0d;
+    background: #d8ffd5;
+    padding: 15px;
+    width: 70%;
+    text-align: center;
+    margin: 20px 15% 10px 15%;
+    /*background: green;*/
+}
